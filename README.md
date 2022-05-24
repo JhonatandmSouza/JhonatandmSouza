@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @JhonatandmSouza
 - 👀 I'm interested in becoming a developer.
-- 🌱 I'm learning html, css and javascript.
+- 🌱 I'm learning java, html, css and javascript.
 - 📫 How to reach me ==> jhonatandmsouza@gmail.com
 
 <!---
